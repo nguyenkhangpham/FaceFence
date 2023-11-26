@@ -1,2 +1,2 @@
 # FaceFence
-Revolutionizing Security with Smart DeepFake Detection
+Empowering DeepFake Detection with Adversarial Learning
