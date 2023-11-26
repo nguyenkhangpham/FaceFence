@@ -14,3 +14,8 @@ Adversarial Machine Learning: Employs advanced algorithms to identify subtle vid
 LAB Color Space Analysis: Analyzes videos in LAB color space to detect inconsistencies not visible in RGB.
 Audio-Visual Synchronization Check: Ensures alignment between audio and visual elements for comprehensive verification.
 KYC Process Integration: Seamlessly integrates with existing Know Your Customer (KYC) systems.
+
+
+![](result_celeba1.jpg)
+![](result_celeba2.jpg)
+![](result_rafd.jpg)
