@@ -5,7 +5,7 @@ Empowering DeepFake Detection with Adversarial Learning
 
 FaceFence is an advanced solution designed to tackle the escalating threat of deepfake technologies in the realm of digital identity verification. Integrating the StarGAN model with adversarial machine learning techniques, FaceFence offers robust detection of manipulated facial attributes and inconsistencies in videos, ensuring the integrity and authenticity of digital identities.
 
-[model.jpg]
+![model.jpg]
 
 # Features
 
